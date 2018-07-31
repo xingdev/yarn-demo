@@ -1,0 +1,9 @@
+{
+  "name": "yarn-demo",
+  "version": "1.0.0",
+  "description": "is demo of yarn",
+  "main": "index.js",
+  "repository": "git@github.com:xingdev/yarn-demo.git",
+  "author": "xing <xingbo0227@hotmail.com>",
+  "license": "MIT"
+}
